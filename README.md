@@ -1,3 +1,13 @@
+# User Form with Login and Registration, after Login redirects to Dashboard
+
+# Components:
+- AuthPage.jsx
+- LoginForm.jsx
+- RegisterForm.jsx
+  
+## AuthPage.jsx:
+- Switching between Login and Register component
+
 # Dependencies:
 ```
 npm install axios
