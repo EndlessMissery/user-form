@@ -7,7 +7,7 @@ npx tailwindcss init
 ```
 
 # API:
-## Axios - Reqres
+- Axios - Reqres
 ### Login
 ```
 username: eve.holt@reqres.in
